@@ -1,13 +1,13 @@
 ## 2024 영주시 공모전 Project_Fkiler
 
-![apple-7205616_1280](https://github.com/minkyunglee1012/Project_Fkiller/assets/156975194/cc7d3e13-1704-4e01-88d3-e178aecb67b3)
+![fruit-3860991_1280](https://github.com/minkyunglee1012/Project_Fkiller/assets/156975194/43b786ef-ab7f-4535-9dec-38f90bfe12d9)
 
 
 
 [Chapter 01. 영주시 관련 뉴스 크롤링](https://github.com/minkyunglee1012/Project_Fkiller/tree/master/01.01%20%EC%98%81%EC%A3%BC%EC%8B%9C%20%EA%B4%80%EB%A0%A8%20%EB%89%B4%EC%8A%A4%20%ED%81%AC%EB%A1%A4%EB%A7%81)
 
-<p>$\huge{\rm{\color{#5ad7b7}네이버 및 다음에서 키워드(영주시 관련) 뉴스 기사를 크롤링 해오는 코드를 만든 후, }}$</p>
-<p>$\huge{\rm{\color{#5ad7b7}네이버 크롤링을 통해 우리의 주제인 사과 모양으로 워드 클라우드를 작성하였다.}}$</p>
+<p>$\small{\rm{\color{#6580DD}네이버 및 다음에서 키워드(영주시 관련) 뉴스 기사를 크롤링 해오는 코드를 만든 후, }}$</p>
+<p>$\small{\rm{\color{#6580DD}네이버 크롤링을 통해 우리의 주제인 사과 모양으로 워드 클라우드를 작성하였다.}}$</p>
 
 
 ---
