@@ -3,6 +3,8 @@
 
 [Chapter 01. 영주시 관련 뉴스 크롤링](https://github.com/minkyunglee1012/Project_Fkiller/tree/master/01.01%20%EC%98%81%EC%A3%BC%EC%8B%9C%20%EA%B4%80%EB%A0%A8%20%EB%89%B4%EC%8A%A4%20%ED%81%AC%EB%A1%A4%EB%A7%81)
 
+![apple_wordcloud](https://github.com/minkyunglee1012/Project_Fkiller/assets/156975194/a7fc005a-e77e-46e9-80da-5e0bacc965a8)
+
 네이버 및 다음에서 키워드(영주시 관련) 뉴스 기사를 크롤링 해오는 코드를 만든 후, \
 네이버 크롤링을 통해 우리의 주제인 사과 모양으로 워드 클라우드를 작성하였다.
 
