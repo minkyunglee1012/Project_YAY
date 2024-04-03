@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+autokeras
+geopy
+folium
+selenium
+beautifulsoup4
+wordcloud
+prophet
+tensorflow
+keras
