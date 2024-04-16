@@ -3,16 +3,12 @@
 ![fruit-3860991_1280](https://github.com/minkyunglee1012/Project_Fkiller/assets/156975194/43b786ef-ab7f-4535-9dec-38f90bfe12d9)
 
 
-
+### 프로젝트용
 [Chapter 01. 영주시 관련 뉴스 크롤링](https://github.com/minkyunglee1012/Project_Fkiller/tree/master/01.01%20%EC%98%81%EC%A3%BC%EC%8B%9C%20%EA%B4%80%EB%A0%A8%20%EB%89%B4%EC%8A%A4%20%ED%81%AC%EB%A1%A4%EB%A7%81)
-
-
 
 ---
 
 [Chapter 02.데이터 전처리](https://github.com/minkyunglee1012/Project_Fkiller/tree/master/01.02%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC)
-
-
 
 ---
 
